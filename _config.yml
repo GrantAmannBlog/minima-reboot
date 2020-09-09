@@ -1,4 +1,4 @@
-title: minima-reboot
+title: Grant Amann's Blog
 author: Grant Amann
 email: gamann@usc.edu
 description: >
@@ -20,8 +20,8 @@ header_pages:
 - github.md
 
 footer_icons:
-- username: aterenin/minima-reboot/
-  url: https://github.com/aterenin/minima-reboot/
+- username: grantamann
+  url: https://amannfamily.org
   icon: icon-github.svg
 
 paginate: 5
